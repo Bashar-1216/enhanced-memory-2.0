@@ -1,0 +1,35 @@
+# مكتبات الذكاء الاصطناعي ومعالجة اللغة الطبيعية
+openai-whisper==20231117
+torch>=2.0.0
+transformers>=4.30.0
+sentence-transformers>=2.2.0
+accelerate>=0.20.0
+
+# مكتبات معالجة الصوت والنصوص
+librosa>=0.10.0
+soundfile>=0.12.0
+nltk>=3.8
+spacy>=3.6.0
+
+# مكتبات البحث والفهرسة
+faiss-cpu>=1.7.4
+numpy>=1.24.0
+pandas>=2.0.0
+
+# مكتبات الرسوميات وخرائط المفاهيم
+networkx>=3.0
+pyvis>=0.3.2
+matplotlib>=3.7.0
+plotly>=5.14.0
+
+# واجهة المستخدم والويب
+streamlit>=1.25.0
+fastapi>=0.100.0
+uvicorn>=0.22.0
+python-multipart>=0.0.6
+
+# مكتبات مساعدة
+requests>=2.30.0
+tqdm>=4.65.0
+python-dotenv>=1.0.0
+pydantic>=2.0.0
